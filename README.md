@@ -8,7 +8,7 @@ I work as a Backend Developer Jr.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F91760911131820274%2F&psig=AOvVaw14FdmEycYmHI5FS36LnANV&ust=1620493242905000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDu9fWFuPACFQAAAAAdAAAAABAJ)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&color=orange)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=orange)&nbsp;  
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&color=gray)&nbsp;  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&color=yellow)&nbsp;  
@@ -24,7 +24,7 @@ I work as a Backend Developer Jr.
 
 ### Let's connect? 🤝
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/raissa-azevedo-555893120/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
