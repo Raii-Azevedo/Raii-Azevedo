@@ -1,9 +1,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-========================================================================================================
 
 
-My name is Raíssa Azevedo. I work as a Backend Developer Jr.
+# My name is Raíssa Azevedo. 
+I work as a Backend Developer Jr.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
