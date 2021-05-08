@@ -16,8 +16,10 @@ I work as a Backend Developer Jr.
 ### Deploys
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
-Check some of mine Projects:
-- <a href="https://geo-rai.herokuapp.com/">The Food Finder</a>
+Check it out some of mine Projects:
+- <a href="http://myport-rai.herokuapp.com/" target="_blank">Portfolio</a>
+- <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
+- <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
 
 ### Analytics ⚙️
 
