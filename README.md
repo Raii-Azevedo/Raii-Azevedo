@@ -16,6 +16,9 @@ I work as a Backend Developer Jr.
 ### Deploys
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
+Check some of mine Projects:
+<a href="https://geo-rai.herokuapp.com/">The Food Finder</a>
+
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raii-Azevedo&layout=compact&count_private=true)
