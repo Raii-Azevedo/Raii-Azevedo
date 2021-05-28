@@ -7,7 +7,7 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
 - 🛠 I have experience with Django, Python, HTML, CSS and JavaScript.
-- 📝 See my Linkedin: 
+- 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
 
 
 Check it out some of Projects:
