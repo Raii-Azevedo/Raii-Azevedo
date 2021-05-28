@@ -17,7 +17,7 @@ Check it out some of Projects:
 
 ### Analytics ⚙️
 
-<div align="center" >
+
   ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raii-Azevedo&layout=compact&count_private=true)
   ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Raii-Azevedo&count_private=true&show_icons=true)
   ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Raii-Azevedo&hide_border=true)
