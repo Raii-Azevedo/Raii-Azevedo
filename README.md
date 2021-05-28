@@ -1,8 +1,8 @@
 
-![Portifolio](https://github.com/Raii-Azevedo/Raii-Azevedo/blob/main/Portifolio.gif)
-
-# My name is Raíssa Azevedo. 
-I work as a Backend Developer Jr.
+# Hello there 👋
+i'm Raíssa Azevedo. 
+I'm a full stack web developer. I'm pretty passionate about everything that involves technologie. In current graduating in systems information at IFES.
+I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
