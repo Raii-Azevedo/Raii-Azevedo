@@ -17,11 +17,11 @@ Check it out some of Projects:
 
 ### Analytics ⚙️
 
-<div>
+<div align="center" >
   ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raii-Azevedo&layout=compact&count_private=true)
   ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Raii-Azevedo&count_private=true&show_icons=true)
   ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Raii-Azevedo&hide_border=true)
-</div>
+
 
 ### Let's connect? 🤝
 <div>
@@ -29,4 +29,4 @@ Check it out some of Projects:
     <a href="https://www.linkedin.com/in/raissa-azevedo-555893120/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Raiissa_Azevedo"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/raiissa.azevedo/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p> </div>
+</p> </div></div>
