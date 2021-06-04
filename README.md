@@ -8,9 +8,10 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 
 - 🛠 I have experience with Django, Python, HTML, CSS and JavaScript.
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
+- I'm currently studying concepts of Java e Typescript in order to start developing with React Js.
 
 
-Check it out some of Projects:
+Check it out some Projects that i've made:
 - <a href="http://myport-rai.herokuapp.com/" target="_blank">Portfolio</a>
 - <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
 - <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
