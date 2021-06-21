@@ -16,9 +16,6 @@ Check it out some Projects that i've made:
 - <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
 - <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
 
-### Analytics ⚙️
-
-
 
 ### Let's connect? 🤝
 <div>
