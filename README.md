@@ -11,10 +11,20 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 - I'm currently studying concepts of JS and Typescript in order to start developing with React Js.
 
 
-Check it out some Projects that i've made:
+## Check it out some Projects that i've made:
+
+# Web ![image](https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png)
+
+
 - <a href="http://myport-rai.herokuapp.com/" target="_blank">Portfolio</a>
 - <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
 - <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
+
+
+# Mobile ![image](https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png)
+
+- <a href="#" target="_blank">Cronômetro</a>
+- <a href="#" target="_blank">Biscoito da Sorte</a>
 
 
 ### Let's connect? 🤝
