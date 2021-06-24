@@ -25,8 +25,8 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 
   ## My Mobile Projects <img src="https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png" height="30" width="30" >
 
-  - <a href="#" target="_blank">Cronômetro</a>
-  - <a href="#" target="_blank">Biscoito da Sorte</a>
+  - <a href="https://github.com/Raii-Azevedo/Cronometro/blob/master/README.md" target="_blank">Cronômetro</a>
+  - <a href="https://github.com/Raii-Azevedo/biscoito-da-sorte/blob/master/README.md" target="_blank">Biscoito da Sorte</a>
 
 
   ### Let's connect? 🤝
