@@ -13,7 +13,7 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 
  
 <div>
- - Check it out  some os my Projects
+ Check it out  some os my Projects:
  
  
  ## My Web Projects <a href="url"><img src="https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png" height="30" width="30" ></a>
