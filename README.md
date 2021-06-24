@@ -10,8 +10,9 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
 - I'm currently studying concepts of JS and Typescript in order to start developing with React Js.
 
+
+ ## Check it out some Projects that i've made:
 <div>
-  ## Check it out some Projects that i've made:
 
   ## Web <a href="url"><img src="https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png" height="30" width="30" ></a>
 
