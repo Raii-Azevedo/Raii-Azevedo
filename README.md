@@ -27,9 +27,6 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
 
   - <a href="https://github.com/Raii-Azevedo/Cronometro/blob/master/README.md" target="_blank">Cronômetro</a>
 
-
- ## Analytics 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raii_Azevedo&theme=blue-green)
  
   ### Let's connect? 🤝
   <div>
