@@ -16,14 +16,14 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
  Check it out  some of my Projects:
  
  
- ## My Web Projects <a href="url"><img src="https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png" height="30" width="30" ></a>
+ ### My Web Projects <a href="url"><img src="https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png" height="10" width="10" ></a>
 
   - <a href="http://myport-rai.herokuapp.com/" target="_blank">Portfolio</a>
   - <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
   - <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
 
 
-  ## My Mobile Projects <img src="https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png" height="30" width="30" >
+  ### My Mobile Projects <img src="https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png" height="10" width="10" >
 
   - <a href="https://github.com/Raii-Azevedo/Cronometro/blob/master/README.md" target="_blank">Cronômetro</a>
 
