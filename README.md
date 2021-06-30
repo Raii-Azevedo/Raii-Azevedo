@@ -26,6 +26,10 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
   ### My Mobile Projects <img src="https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png" height="20" width="20" >
 
   - <a href="https://github.com/Raii-Azevedo/Cronometro/blob/master/README.md" target="_blank">Cronômetro</a>
+ 
+ ## Statistics
+ [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raii-azevedo)](https://github.com/raii-azevedo/github-readme-stats)
+
 
  
   ### Let's connect? 🤝
