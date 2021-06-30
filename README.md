@@ -30,7 +30,8 @@ I have experience with projects using Django, Python, HTML, CSS and JavaScript.
  ## Statistics
  ![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raii-azevedo&show_icons=true&theme=radical)
 
- [![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raii-azevedo)](https://github.com/raii-azevedo/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raii-azevedo&layout=compact)](https://github.com/raii-azevedo/github-readme-stats)
+
 
 
  
