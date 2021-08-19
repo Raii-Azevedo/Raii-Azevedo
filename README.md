@@ -1,7 +1,7 @@
 
 # Hello there 👋
 i'm Raíssa Azevedo. 
-I'm a full stack web developer. I'm pretty passionate about everything that involves technology. I'm current graduating in information systems at IFES.
+I'm a full stack web developer in training. I'm pretty passionate about everything that involves technology. I'm current graduating in information systems at IFES.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
