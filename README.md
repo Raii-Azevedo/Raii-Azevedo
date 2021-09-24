@@ -5,10 +5,10 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
 
-- 🛠 I have experience with Django, Python, HTML, CSS and JavaScript.
+- 🛠  I have experience with Django, Python, HTML, CSS and JavaScript.
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
-- I'm currently studying  ReactJs and React Native.
-- Working as QA at Alta Rail Technology
+- 🛠  I'm currently studying  ReactJs and React Native.
+- 📝 Working as QA at Alta Rail Technology
 
 
  
