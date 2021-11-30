@@ -10,23 +10,10 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
 - 🛠  I'm currently studying  ReactJs and React Native.
 - 📝 
 
-
- 
 <div>
- Check it out  some of my Projects:
+ Check it out  some of my Projects
  
- 
- ### My Web Projects <a href="url"><img src="https://user-images.githubusercontent.com/53634618/123186818-5526da00-d46f-11eb-9ca1-d69a20615dc3.png" height="20" width="20" ></a>
 
-  - <a href="http://myport-rai.herokuapp.com/" target="_blank">Portfolio</a>
-  - <a href="https://fusion-rai.herokuapp.com/" target="_blank">Fusion</a>
-  - <a href="https://geo-rai.herokuapp.com/" target="_blank">The Food Finder</a>
-
-
-  ### My Mobile Projects <img src="https://user-images.githubusercontent.com/53634618/123186849-666fe680-d46f-11eb-8dea-be17712f3ee4.png" height="20" width="20" >
-
-  - <a href="https://github.com/Raii-Azevedo/Cronometro/blob/master/README.md" target="_blank">Cronômetro</a>
- 
  ## Statistics
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raii-azevedo&layout=compact&show_icons=true&theme=radical)](https://github.com/raii-azevedo/github-readme-stats)
 
