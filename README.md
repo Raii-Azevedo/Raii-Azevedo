@@ -13,11 +13,6 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
 <div>
  Check it out  some of my Projects
  
-
- ## Statistics
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raii-azevedo&layout=compact&show_icons=true&theme=radical)](https://github.com/raii-azevedo/github-readme-stats)
-
-
  
   ### Let's connect? 🤝
   <div>
