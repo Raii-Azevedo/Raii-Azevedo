@@ -8,7 +8,7 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
 - 🛠  I have experience with Django, Python, HTML, CSS and JavaScript.
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
 - 🛠  I'm currently studying  ReactJs and React Native.
-- 📝 Working as a Developer intern at Vale
+
 
 <div>
  Check it out  some of my Projects
