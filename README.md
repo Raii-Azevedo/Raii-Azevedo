@@ -4,10 +4,8 @@ i'm Raíssa Azevedo.
 I'm a full stack web developer in training. I'm pretty passionate about everything that involves technology. I'm current graduating in information systems at IFES.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Raii-Azevedo&repo=Raii-Azevedo&countColorcountColor)
-
-- 🛠  I have experience with Django, Python, HTML, CSS and JavaScript.
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
-- 🛠  I'm currently studying  ReactJs and React Native.
+
 
 
 <div>
