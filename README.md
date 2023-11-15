@@ -7,7 +7,7 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
 - 📝 See my Linkedin: [RAISSA AZEVEDO](https://www.linkedin.com/in/raissa-azevedo-555893120/)
 
 
-<div>
+<div align="center">
 <h4> Programming Languages </h4>
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
