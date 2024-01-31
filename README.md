@@ -29,8 +29,8 @@ I'm a full stack web developer in training. I'm pretty passionate about everythi
   ### Let's connect? 🤝
   <div>
     <p align="center">
-      <a href="https://www.linkedin.com/in/raissa-azevedo-555893120/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-      <a href="https://www.youtube.com/channel/UCEKsppYChQTSNh-OMHgrdWQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>a      
-      <a href="https://www.instagram.com/raiissa.azevedo/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/raissa-azevedo-555893120/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.youtube.com/channel/UCEKsppYChQTSNh-OMHgrdWQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>     
+      <a href="https://www.instagram.com/raiissa.azevedo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   </p> </div></div>
 </div>
