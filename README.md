@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Fullstack Web Developer** and **Data Analyst**, currently pursuing my degree in **Information Systems** at IFES.
+I'm a passionate **Fullstack Web Developer** and **Analytics Engineer**, currently pursuing my degree in **Information Systems** at IFES.
 
 ```python
 class RaissaAzevedo:
@@ -17,7 +17,7 @@ class RaissaAzevedo:
         self.role = "Fullstack Developer & Data Analyst"
         self.location = "Brazil 🇧🇷"
         self.education = "Information Systems @ IFES"
-        self.interests = ["Web Development", "Data Science", "UI/UX", "Open Source"]
+        self.interests = ["Web Development", "Analytics Engineer", "UI/UX", "Open Source"]
 
     def say_hi(self):
         print("Thanks for dropping by! 🚀")
