@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F77AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raíssa+Azevedo!;Fullstack+Web+Developer;Data+Analyst;Tech+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Girl">
