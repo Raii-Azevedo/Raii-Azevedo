@@ -57,7 +57,7 @@ class RaissaAzevedo:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raii-Azevedo&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raii-Azevedo&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
