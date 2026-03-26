@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Fullstack Web Developer** and **Data Analyst** in training, currently pursuing my degree in **Information Systems** at IFES.
+I'm a passionate **Fullstack Web Developer** and **Data Analyst**, currently pursuing my degree in **Information Systems** at IFES.
 
 ```python
 class RaissaAzevedo:
