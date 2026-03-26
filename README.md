@@ -14,7 +14,7 @@ I'm a passionate **Fullstack Web Developer** and **Analytics Engineer**, current
 class RaissaAzevedo:
     def __init__(self):
         self.name = "Raíssa Azevedo"
-        self.role = "Fullstack Developer & Data Analyst"
+        self.role = "Fullstack Developer & Analytics Engineer"
         self.location = "Brazil 🇧🇷"
         self.education = "Information Systems @ IFES"
         self.interests = ["Web Development", "Analytics Engineer", "UI/UX", "Open Source"]
